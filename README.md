@@ -309,10 +309,10 @@ const ramKishor = {
 
 | Platform | Link |
 |---|---|
-| 💼 **LinkedIn** | [linkedin.com/in/ramkishor](https://linkedin.com/in/ramkishor) |
-| 💻 **GitHub** | [github.com/ramkishor](https://github.com/ramkishor) |
-| 🟢 **Upwork** | [upwork.com/freelancers/ramkishor](https://upwork.com/freelancers/ramkishor) |
-| 📧 **Email** | ramkishor@email.com |
+| 💼 **LinkedIn** | [linkedin.com/in/ramkishor](https://linkedin.com/in/itsmerk98) |
+| 💻 **GitHub** | [github.com/ramkishor](https://github.com/itsmerk98) |
+| 🟢 **Upwork** | [upwork.com/freelancers/ramkishor](https://www.upwork.com/freelancers/~01be5d3bc6246f9981) |
+| 📧 **Email** | itsmerk.work@email.com |
 | 📍 **Location** | Jodhpur, Rajasthan, India — Available Remote Worldwide |
 
 </div>
@@ -330,7 +330,7 @@ const ramKishor = {
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsmerk98)
 [![Hire on Upwork](https://img.shields.io/badge/Hire%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01be5d3bc6246f9981)
-[![Send Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsmerk98@email.com)
+[![Send Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsmerk.work@email.com)
 
 <br/>
 
