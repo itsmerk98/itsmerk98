@@ -247,7 +247,7 @@ const ramKishor = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ramkishor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="Ram Kishor's GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ramkishor&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak"/>
@@ -262,7 +262,7 @@ const ramKishor = {
 
 </div>
 
----
+--- -->
 
 ## 💡 Why Work With Me
 
@@ -328,9 +328,9 @@ const ramKishor = {
 *Full Stack Engineer · SaaS Builder · AI Integration Specialist*
 *Node.js · NestJS · React · React Native · AWS · OpenAI*
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramkishor)
-[![Hire on Upwork](https://img.shields.io/badge/Hire%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/ramkishor)
-[![Send Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramkishor@email.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsmerk98)
+[![Hire on Upwork](https://img.shields.io/badge/Hire%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01be5d3bc6246f9981)
+[![Send Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsmerk98@email.com)
 
 <br/>
 
