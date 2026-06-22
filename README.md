@@ -31,13 +31,13 @@
 const ramKishor = {
   role:       "Full Stack Engineer & SaaS Builder",
   location:   "Jodhpur, Rajasthan, India 🇮🇳",
-  experience: "3+ years building production-grade applications",
+  experience: "5+ years building production-grade applications",
   education:  "MCA — Master of Computer Applications",
 
   expertise: [
     "Backend API design & microservices architecture",
     "SaaS product development from 0 → production",
-    "AI workflow automation (OpenAI · LLMs · AWS Rekognition)",
+    "AI workflow automation (OpenAI · LLMs · AWS Rekognition, Lambda, SQS, S3)",
     "EV charging platforms (OCPP · OCPI protocols)",
     "Real-time systems (WebSocket · Kafka · event-driven)",
     "Mobile app development (React Native · iOS · Android)",
