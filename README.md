@@ -109,6 +109,8 @@ const ramKishor = {
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
 ![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=for-the-badge&logo=sendgrid&logoColor=white)
 ![PhonePe](https://img.shields.io/badge/PhonePe-5f259f?style=for-the-badge&logo=phonepe&logoColor=white)
+![IAP](https://img.shields.io/badge/In--App%20Purchase-000000?style=for-the-badge&logo=apple&logoColor=white)
+
 
 </div>
 
